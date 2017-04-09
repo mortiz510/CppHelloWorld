@@ -1,6 +1,6 @@
 /*Hello World
-*20131411
-*JMS
+*2017/4/9
+*Mauro Ariel Ortiz
 */
 #include <iostream>
 int main()
